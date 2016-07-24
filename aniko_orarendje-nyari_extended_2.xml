@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="ansi"?>
 <icalendar xmlns="urn:ietf:params:xml:ns:icalendar-2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rng="www.erudio.cz/rozvrhng-1-0" xsi:schemaLocation="www.erudio.cz/rozvrhng-1-0 http://is.cuni.cz/studium/rozvrhng/rozvrh-calendar-1-0.xsd">
   <vcalendar>
     <properties>
